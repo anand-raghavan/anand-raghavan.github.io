@@ -1,11 +1,11 @@
 KasturiIyengar + Ranganayaki Amma
- c: Rangasamy Iyer, Ramasamy Iyer, Sriranganayaki
-Rangasamy Iyer + Achammal
- c: Ramakrishnan, Thiruvenkata Iyer, Kasturi Iyer, Andal
+ c: RangasamyIyer, Ramasamy Iyer, Sriranganayaki
+RangasamyIyer + Achammal
+ c: Ramakrishnan, Thiruvenkata Iyer, KasturiIyer, Andal
 Thiruvenkata Iyer + ?
  c: Kamalaveni, Vasantha, Pattumani, Sandhya
-Kasturi Iyer + ?
- c: Santhanam, Ranganathan, Srinivasan, Radhakrishnan, Ramalakshmi, Padma
+KasturiIyer + ?
+ c: Santhanam, Ranganathan#Ganapathi, Srinivasan, Radhakrishnan, Ramalakshmi, Padma
 Ramakrishnan + Lakshmi Ammal
  c: Ranganathan, Padmavathi, Ruckmani
 Ranganathan + Bhagyalakshmi
