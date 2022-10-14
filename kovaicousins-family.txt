@@ -32,7 +32,7 @@ Ramalakshmi
  n: Periyamani
 Padma
  n: Chinnamani
-Kasturi Iyer
+KasturiIyer
  n: Ganapathi Thatha
 Thiruvenkata Iyer
  n: Narasimanayakkan Palyathu Thatha
