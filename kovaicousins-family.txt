@@ -24,7 +24,7 @@ Ramasamy Iyer + Alarmelumangamma
  c: Ammayakka, Sriranganayaki_JolarAkka
 Sriranganayaki_JolarAkka + VennalsamyIyer
  c: VaradarajaIyer#Sriranganayaki_JolarAkka, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
-Ammayakka + VenkatasamyIyer#Idikarai
+Ammayakka + VenkatasamyIyer_Idikarai
  c: Muthukrishnan, Ramachandiran, Vasu, Thayar#karamadi
 Muthukrishnan + Thayaar#Chennur
  c: Mani, Chinnu, Ranganayaki#Muthukrishnan, Rajalalakshmi, Ruckmani#Muthukrishnan
