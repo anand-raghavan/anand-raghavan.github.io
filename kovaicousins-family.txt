@@ -26,12 +26,12 @@ Sriranganayaki_JolarAkka + VennalsamyIyer
  c: VaradarajaIyer#Sriranganayaki_JolarAkka, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
 Ammayakka + VenkatasamyIyer_Idikarai
  c: Muthukrishnan, Ramachandiran, Vasu, Thayar#karamadi
+Vasu 
+ n: From Chinnavedampatti and Has 4 daughters and 2 sons 
 Muthukrishnan + Thayaar#Chennur
  c: Mani, Chinnu, Ranganayaki#Muthukrishnan, Rajalalakshmi, Ruckmani#Muthukrishnan
 Ramachandiran + ?
  c: NilpestRagunathan, Kumutham, Prema
-Vasu 
- n: From Chinnavedampatti.   Has 4 daughters and 2 sons 
 Thayar#karamadi
  n: 1 daughter, 2 sons
 RangasamyIyer + Achammal
