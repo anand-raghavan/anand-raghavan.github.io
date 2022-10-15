@@ -1,15 +1,39 @@
 Unknown + ?
  c: VenkatasamayIyer, Pungalamma, Godamma
+VenkatasamayIyer
+ n: Also known as Vendayyar , he had another Wife - Rukmani
 Pungalamma + ?
  c: Chinnakannan, KrishnaIyer
 Godamma + ?
  c: Periyakannan, Thayar, Lakshmi
 VenkatasamayIyer + Alarmelmangamma
  c: Kesamma, Rajanna RajIyer, NarasimhaIyer, RamasamayIyer, LakshmiAmmal
+Alarmelmangamma
+ n: Also known as Ponnamma
 Kesamma + ?
  c: KasturiIyengar
-KasturiIyengar + Ranganayaki Amma
- c: RangasamyIyer, Ramasamy Iyer, Sriranganayaki
+KasturiIyengar + SriRanganayaki Amma
+ c: RangasamyIyer, Ramasamy Iyer, Sriranganayaki, KamanaickenPalayamAmmani
+KamanaickenPalayamAmmani + ?
+ c: VaradarajaIyer
+VaradarajaIyer
+ n: He is adopted, 1 son died earlier for KamanaickenPalayamAmmani
+Sriranganayaki + KunnathurIyyan
+ c: VenkatasamyIyer#Sriranganayaki, RangaIyer, KrishnaIyer, PethakaIyer, ChinnakaIyer, NachiyarIyer
+Ramasamy Iyer + Alarmelmangamma
+ c: Ammayakka, Sriranganayaki JolarAkka
+Sriranganayaki JolarAkka + VennalsamyIyer
+ c: VaradarajaIyer#Sriranganayaki, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
+Ammayakka + VenkatasamayIyer#Idikarai
+ c: Muthukrishnan, Ramachandiran, Vasu, Thayar#karamadi
+Muthukrishnan + Thayaar#Chennur
+ c: Mani, Chinnu, Ranganayaki#Muthukrishnan, Rajalalakshmi, Ruckmani#Muthukrishnan
+Ramachandiran + ?
+ c: NilpestRagunathan, Kumutham, Prema
+Vasu 
+ n: From Chinnavedampatti.   Has 4 daughters and 2 sons 
+Thayar#karamadi
+ n: 1 daughter, 2 sons
 RangasamyIyer + Achammal
  c: Ramakrishnan, Thiruvenkata Iyer, KasturiIyer, Andal
 Thiruvenkata Iyer + ?
@@ -27,7 +51,7 @@ Ruckmani + Raghavan
 Vimala Devi + Prakash
  c: Arvind
 Tharakeswari + Ravichandran
- c: Aditya
+ c: Aaditya Kumar
 Balaji + Gayathri
  c: Neha, Sai Darshan
 Prabha + Rammohan
