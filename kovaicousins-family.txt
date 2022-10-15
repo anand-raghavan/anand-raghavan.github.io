@@ -12,7 +12,7 @@ Alarmelmangamma
  n: Also known as Ponnamma
 Kesamma + ?
  c: KasturiIyengar
-KasturiIyengar + SriRanganayaki Amma
+KasturiIyengar + SriRanganayakiAmma
  c: RangasamyIyer, Ramasamy Iyer, Sriranganayaki, KamanaickenPalayamAmmani
 KamanaickenPalayamAmmani + ?
  c: VaradarajaIyer
@@ -23,7 +23,7 @@ Sriranganayaki + KunnathurIyyan
 Ramasamy Iyer + Alarmelumangamma
  c: Ammayakka, Sriranganayaki_JolarAkka
 Sriranganayaki_JolarAkka + VennalsamyIyer
- c: VaradarajaIyer#Sriranganayaki, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
+ c: VaradarajaIyer#Sriranganayaki_JolarAkka, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
 Ammayakka + VenkatasamyIyer#Idikarai
  c: Muthukrishnan, Ramachandiran, Vasu, Thayar#karamadi
 Muthukrishnan + Thayaar#Chennur
