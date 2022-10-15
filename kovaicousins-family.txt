@@ -20,7 +20,7 @@ VaradarajaIyer
  n: He is adopted, 1 son died earlier for KamanaickenPalayamAmmani
 Sriranganayaki + KunnathurIyyan
  c: VenkatasamyIyer#Sriranganayaki, RangaIyer, KrishnaIyer, PethakaIyer, ChinnakaIyer, NachiyarIyer
-Ramasamy Iyer + Alarmelmangamma
+Ramasamy Iyer + Alarmelumangamma
  c: Ammayakka, Sriranganayaki_JolarAkka
 Sriranganayaki_JolarAkka + VennalsamyIyer
  c: VaradarajaIyer#Sriranganayaki, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
