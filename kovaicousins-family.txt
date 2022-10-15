@@ -1,3 +1,13 @@
+Unknown + ?
+ c: VenkatasamayIyer, Pungalamma, Godamma
+Pungalamma + ?
+ c: Chinnakannan, KrishnaIyer
+Godamma + ?
+ c: Periyakannan, Thayar, Lakshmi
+VenkatasamayIyer + Alarmelmangamma
+ c: Kesamma, Rajanna RajIyer, NarasimhaIyer, RamasamayIyer, LakshmiAmmal
+Kesamma + ?
+ c: KasturiIyengar
 KasturiIyengar + Ranganayaki Amma
  c: RangasamyIyer, Ramasamy Iyer, Sriranganayaki
 RangasamyIyer + Achammal
