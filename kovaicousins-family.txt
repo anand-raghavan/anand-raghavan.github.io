@@ -1,12 +1,12 @@
 Unknown + ?
- c: VenkatasamayIyer, Pungalamma, Godamma
-VenkatasamayIyer
+ c: VenkatasamiIyer, Pungalamma, Godamma
+VenkatasamiIyer
  n: Also known as Vendayyar , he had another Wife - Rukmani
 Pungalamma + ?
  c: Chinnakannan, KrishnaIyer
 Godamma + ?
  c: Periyakannan, Thayar, Lakshmi
-VenkatasamayIyer + Alarmelmangamma
+VenkatasamiIyer + Alarmelmangamma
  c: Kesamma, Rajanna RajIyer, NarasimhaIyer, RamasamayIyer, LakshmiAmmal
 Alarmelmangamma
  n: Also known as Ponnamma
@@ -21,10 +21,10 @@ VaradarajaIyer
 Sriranganayaki + KunnathurIyyan
  c: VenkatasamyIyer#Sriranganayaki, RangaIyer, KrishnaIyer, PethakaIyer, ChinnakaIyer, NachiyarIyer
 Ramasamy Iyer + Alarmelmangamma
- c: Ammayakka, Sriranganayaki JolarAkka
-Sriranganayaki JolarAkka + VennalsamyIyer
+ c: Ammayakka, Sriranganayaki_JolarAkka
+Sriranganayaki_JolarAkka + VennalsamyIyer
  c: VaradarajaIyer#Sriranganayaki, Ramakrishnan#Srirranganayaki, UrumandapalayamIyer
-Ammayakka + VenkatasamayIyer#Idikarai
+Ammayakka + VenkatasamyIyer#Idikarai
  c: Muthukrishnan, Ramachandiran, Vasu, Thayar#karamadi
 Muthukrishnan + Thayaar#Chennur
  c: Mani, Chinnu, Ranganayaki#Muthukrishnan, Rajalalakshmi, Ruckmani#Muthukrishnan
